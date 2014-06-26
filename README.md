@@ -1,4 +1,6 @@
 Course
 ======
 
-Courserian's code
+- Courserian's code
+- Udacity code
+- Codecademy
